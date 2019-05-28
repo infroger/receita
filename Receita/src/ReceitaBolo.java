@@ -1,6 +1,5 @@
 
-public class ReceitaBolo implements IReceita {
-	
+public class ReceitaBolo implements IReceita {	
 	@Override
 	public String receita() {
 		// TODO Auto-generated method stub
