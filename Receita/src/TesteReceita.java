@@ -5,7 +5,8 @@ public class TesteReceita {
 		IReceita bolo = new ReceitaBolo();
 		System.out.println(bolo.receita());
 		
-		
+		IReceita tortaDeBolacha = new ReceitaTortaDeBolacha();
+        System.out.println(tortaDeBolacha.receita());
 	}
 	
 }
